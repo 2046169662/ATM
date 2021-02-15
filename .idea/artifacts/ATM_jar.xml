@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ATM自助取款机:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ATM_jar</output-path>
+    <root id="archive" name="ATM自助取款机.jar">
+      <element id="module-output" name="ATM" />
+    </root>
+  </artifact>
+</component>
